@@ -6,7 +6,7 @@ const puerto = 3000
 app.use(express.text())
 
 app.get("/", (req, res) => {
-  res.send("Bienvenida comunidad. Este es un servidor Express para comunicación digital responsable.")
+  res.send("Hola a todos, este es su nuevo servidor Comunidad Conectada con Express")
 })
 
 app.get("/campania", (req, res) => {

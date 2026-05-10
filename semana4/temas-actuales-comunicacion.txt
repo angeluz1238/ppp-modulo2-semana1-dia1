@@ -1,28 +1,35 @@
 Temas actuales de comunicación digital – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
+Nombre del estudiante:Angeluz Millan Alvarez
 Fecha:
-Nombre de la rama:
+Nombre de la rama:Angeluz_Millan
 
 Lee los temas sugeridos por el docente de comunicaciones durante la clase y responde.
 
 1. ¿Qué tema actual se mencionó en la clase?
 Ejemplos: desinformación, IA generativa, confianza en noticias, convivencia digital, gobernanza de plataformas, violencia digital, participación juvenil.
 
-Respuesta:
+Respuesta: ia generativa, gobernanza de las plataformas,
 
 2. ¿Por qué ese tema afecta la participación ciudadana?
 
-Respuesta:
+Respuesta: Porque puede hacer que muchas personas le dejen todo el trabajo y las decisiones a las IAs sin revisar si la informacion es correcta. 
+Esto puede causar desinformacion y hacer que las personas no participen de manera consciente en la comunidad.
 
 3. ¿Qué riesgo puede generar para una comunidad?
 
-Respuesta:
+Respuesta:Puede generar desinformacion, noticias falsas y confusion entre las personas.
+  Si la IA genera respuestas falsas o con informacion equivocada y nadie las revisa, la comunidad puede tomar decisiones basadas en datos que no son reales.
+  Esto puede afectar la convivencia del barrio, generar problemas entre los vecinos o incluso causar malos manejos en temas importantes como el presupuesto y las decisiones comunitarias. 
+ Por eso es importante verificar siempre la informacion y no dejar todas las decisiones solamente en manos de la inteligencia artificial.
 
 4. ¿Qué acción responsable podría tomar una comunidad frente a ese tema?
 
-Respuesta:
+Respuesta:La comunidad puede aprender a verificar la informacion antes de compartirla y usar las herramientas digitales de manera responsable.
+ Tambien es importante enseñar a las personas a no creer todo lo que aparece en internet o en las IAs, ya que no toda la informacion es correcta.
+  Ademas, la comunidad no debe dejarle toda la informacion y las decisiones a las inteligencias artificiales, porque las personas tambien deben analizar, pensar y participar de forma consciente.
 
 5. ¿Cómo podría ayudar una plataforma digital comunitaria a informar mejor sobre ese tema?
 
-Respuesta:
+Respuesta:Podria ayudar compartiendo informacion clara y confiable sobre el tema, permitiendo que las personas hagan preguntas y reciban respuestas responsables. 
+Tambien serviria para prevenir la desinformacion y ayudar a que la comunidad participe de manera mas informada.

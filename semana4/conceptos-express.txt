@@ -8,40 +8,47 @@ Responde con tus propias palabras.
 
 1. ¿Qué es Express?
 
-Respuesta:
+Respuesta:Express es una herramienta que ayuda a crear servidores y paginas web mas facil usando Node.js.
+ Tambien sirve para organizar mejor el codigo y hacer que las paginas funcionen.
 
 2. ¿Qué diferencia básica hay entre Node.js y Express?
 
-Respuesta:
+Respuesta:Node.js es el programa que permite ejecutar JavaScript en el servidor,
+ mientras que Express es una herramienta que ayuda a trabajar mas facil sobre Node.js para crear servidores y aplicaciones web de manera mas organizada.
 
 3. ¿Qué hace el comando npm install express?
 
-Respuesta:
+Respuesta:instala la libreria de express
 
 4. ¿Qué hace el comando npm start en esta práctica?
 
-Respuesta:
+Respuesta:Sirve para iniciar el servidor y hacer que el archivo server.js funcione
 
 5. ¿Qué es una ruta en Express?
 
-Respuesta:
+Respuesta:Una ruta en Express es una direccion o camino que usa el servidor para responder a diferentes solicitudes.
+ Las rutas ayudan a mostrar informacion, recibir datos o realizar acciones dentro de la aplicacion.
 
 6. ¿Para qué usamos una ruta GET?
 
-Respuesta:
+Respuesta:La usamos para pedir informacion o mostrar datos que tiene el servidor.
+por ejemplo, sirve para ver mensajes, datos o contenido que ya esta guardado en la aplicacion.
 
 7. ¿Para qué usamos una ruta POST?
 
-Respuesta:
+Respuesta:La ruta POST se usa para enviar informacion al servidor. 
+Por ejemplo, cuando una persona envia un formulario, un mensaje o una propuesta, esos datos llegan al servidor usando POST
 
 8. ¿Qué significa req en una ruta?
 
-Respuesta:
+Respuesta:Req es la informacion que manda el usuario al servidor.
 
 9. ¿Qué significa res en una ruta?
 
-Respuesta:
+Respuesta:Res es la respuesta que manda el servidor al usuario.
 
 10. ¿Cómo puede servir Express para construir herramientas de comunicación comunitaria?
 
-Respuesta:
+Respuesta:Express puede ayudar a crear plataformas digitales donde las personas de una comunidad puedan compartir informacion, enviar propuestas y comunicarse de forma mas organizada.
+ Tambien permite crear espacios donde la gente pueda participar, consultar noticias y recibir respuestas claras, 
+ayudando a mejorar la comunicacion y la participacion comunitaria.

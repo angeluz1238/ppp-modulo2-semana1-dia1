@@ -7,13 +7,13 @@ Nombre de la rama:Angeluz_Millan
 Lee los temas sugeridos por el docente de comunicaciones durante la clase y responde.
 
 1. ¿Qué tema actual se mencionó en la clase?
-Ejemplos: desinformación, IA generativa, confianza en noticias, convivencia digital, gobernanza de plataformas, violencia digital, participación juvenil.
+Ejemplos: desinformación, IA generativa, confianza, redes
 
 Respuesta: ia generativa, gobernanza de las plataformas,
 
 2. ¿Por qué ese tema afecta la participación ciudadana?
 
-Respuesta: Porque puede hacer que muchas personas le dejen todo el trabajo y las decisiones a las IAs sin revisar si la informacion es correcta. 
+Respuesta: Porque puede hacer que muchas personas le dejen todo el trabajo y las decisiones a las IAs sin revisar si la informacion es incorrecta. 
 Esto puede causar desinformacion y hacer que las personas no participen de manera consciente en la comunidad.
 
 3. ¿Qué riesgo puede generar para una comunidad?
